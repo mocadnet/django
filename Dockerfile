@@ -1,5 +1,5 @@
-FROM phusion/baseimage:0.9.17
-#FROM python:2.7
+#FROM phusion/baseimage:0.9.17
+FROM python:2.7
 
 MAINTAINER mocadnet <mocadnet@gmail.com>
 
